@@ -4,6 +4,8 @@ En este proyecto se utiliza Spark 2.x para realizar diversas tareas de análisis
 
 ## Utilizando el API DataFrame
 
+0. Limpieza de datos
+
 1. **Top 10 Estados con Mayor Número de Bebés Nacidos en 2003:**
    - Obtener los 10 estados donde nacieron más bebés en el año 2003.
 
