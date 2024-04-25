@@ -1,4 +1,4 @@
-# Uso de SparkSession, DataFrame y DataSet en Spark 2.x con PYthon, SQL, y Scala
+# Uso de SparkSession, DataFrame y DataSet en Spark 2.x con Python y SQL
 
 En este proyecto se utiliza Spark 2.x para realizar diversas tareas de análisis de datos relacionadas con información sobre nacimientos. Se utilizarán SparkSession, DataFrame y DataSet para llevar a cabo las siguientes tareas:
 
